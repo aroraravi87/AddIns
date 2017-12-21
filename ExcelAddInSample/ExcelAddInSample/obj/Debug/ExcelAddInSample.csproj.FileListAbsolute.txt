@@ -1,0 +1,12 @@
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\bin\Debug\ExcelAddInSample.dll
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\bin\Debug\ExcelAddInSample.pdb
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\bin\Debug\ExcelAddInSample.dll.manifest
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\bin\Debug\ExcelAddInSample.vsto
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\obj\Debug\ExcelAddInSample.Properties.Resources.resources
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\obj\Debug\ExcelAddInSample.csproj.GenerateResource.Cache
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\obj\Debug\ExcelAddInSample.dll
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\obj\Debug\ExcelAddInSample.pdb
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\obj\Debug\ExcelAddInSample.csprojResolveAssemblyReference.cache
+D:\Projects\Sample Components\AddIn\ExcelAddInSample\ExcelAddInSample\obj\Debug\ExcelAddInSample.CustomAddInControl.resources
